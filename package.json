@@ -1,0 +1,18 @@
+{
+  "name": "kostruktor",
+  "version": "1.0.0",
+  "description": "javascript pure application",
+  "main": "kurs.js",
+  "scripts": {
+    "serve": "parcel ./Users/artur/Desktop/kostruktor/src/index.html -p 4200 --open"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "goji <arturikkaral@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
